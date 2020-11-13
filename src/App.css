@@ -1,0 +1,20 @@
+.jumbotron{
+    /* background-color: #ff3f34; */
+    margin-top: 20px;
+    color: white;
+    padding: 100px 0px;
+    text-align: center;
+    border-radius: 20px;
+    margin: 0 20px 0 20px;
+    background-image: linear-gradient(orange, red);
+    margin-bottom: 30px;
+}
+
+.brand-icon{
+    font-size: 90px;
+}
+
+.card:hover{
+    background-image: linear-gradient(red, orange);
+    cursor: pointer;
+}
